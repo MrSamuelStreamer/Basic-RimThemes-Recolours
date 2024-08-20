@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+    <name>Basic RimThemes Recolours</name>
+    <author>MrSamuelStreamer</author>
+    <supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+    </supportedVersions>
+    <packageId>MrSamuelStreamer.RimThemesRecolours</packageId>
+    <description>A collection of RimThemes recolours, currently in blue, green, red, and purple!</description>
+    <loadAfter>
+        <li>aRandomKiwi.RimThemes</li>
+    </loadAfter>
+    <modDependencies>
+    <li>
+      <packageId>aRandomKiwi.RimThemes</packageId>
+      <displayName>RimThemes</displayName>
+	    <steamWorkshopUrl>steam://url/CommunityFilePage/1668983184</steamWorkshopUrl>
+    </li>
+    </modDependencies>
+</ModMetaData>
